@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "900069822635",
+    "project_id": "stud-expense",
+    "storage_bucket": "stud-expense.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:900069822635:android:c4b8ce42b416a61db327ee",
+        "android_client_info": {
+          "package_name": "com.example.stud_expense"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBs22qFjbrB7xu6cwB_68f0GagivD98Iu8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
